@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  align-items: center;
+  box-sizing: content-box;
+
+  width: 100%;
+  max-width: 720px;
+
+  margin: 20px auto;
+  padding: 1.2rem;
+
+  border-radius: 6px;
+  background-color: white;
+}

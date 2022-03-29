@@ -1,0 +1,9 @@
+.user-list {
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.users {
+  list-style-type: none;
+  margin: 12px auto;
+}
